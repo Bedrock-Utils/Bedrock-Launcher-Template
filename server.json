@@ -1,0 +1,6 @@
+{
+    "name": "Bedrock Launcher Template",
+    "playButtonText": "Start",
+    "background": "https://image_or_video/file.extension",
+    "packs": "https://minecraftaddons.com"
+}
